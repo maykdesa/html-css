@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+body{
+
+    font-family: 'calibri';
+    background-color: rgb(193, 204, 204);
+
+
+}
+
+h1{
+    color: rgb(28, 44, 28);
+}
+
+h1#principal{
+
+    text-align: center;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+
+}
+
+h2{
+    color: rgb(42, 56, 42);
+}
+
+.basico{
+
+    color: rgb(63, 128, 63);
+
+}
+
+.intermediario{
+   color:  rgb(124, 128, 63);
+
+}
+.avacado{
+   color: rgb(128, 63, 63);
+
+}
+.destaque{
+    background-color: rgba(163, 163, 76, 0.493);
+}
